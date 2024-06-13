@@ -1,5 +1,8 @@
 # flutter_application_1
 
+Tampilan Web
+![image](https://github.com/abirafdinst/learning-flutter-counter-cubit/assets/171578597/692fa19a-fea0-476b-af5b-39f936c9a267)
+
 A new Flutter project.
 
 ## Getting Started
